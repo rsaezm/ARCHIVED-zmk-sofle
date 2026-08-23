@@ -106,7 +106,7 @@
             >;
 
             sensor-bindings = <&rsr_vol &rsr_trans>;
-            display-name = "LAYER1";
+            display-name = "Simbolos";
         };
 
         layer_2 {
@@ -118,7 +118,7 @@
 &trans     &trans        &trans          &trans        &trans        &trans          &mkp LCLK        &trans  &trans  &trans      &trans     &trans
             >;
 
-            display-name = "LAYER2";
+            display-name = "Funciones";
             sensor-bindings = <&rsr_vol &rsr_trans>;
         };
 
